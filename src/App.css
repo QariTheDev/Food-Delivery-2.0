@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Federo&family=Montserrat:wght@400&display=swap');
+
+body {
+    font-family: 'Federo', sans-serif;
+    transition-duration: 0.3s all ease-in-out;
+}
+
+.font-great-vibes {
+    font-family: "Great Vibes", cursive;
+    font-weight: 200;
+    font-style: normal;
+}
